@@ -1,4 +1,4 @@
-print("""\ 
+("""\
  ____   _   _ ____ ___
 |  _ \ | \ | |  _ \_ _|
 | |_) ||  \| | | | | |
@@ -9,7 +9,7 @@ Author :Mr.NEWBIE3X
 # BILA GAK WORK PIKIR SENDIRI;V
 # YOUTUBE RANDI OLOYY
 # BILA ANDA JONES BISA PAKE TOLS INI;V
-""")
+/""")
 import thread
 import requests
 import sys
